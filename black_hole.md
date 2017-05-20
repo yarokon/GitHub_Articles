@@ -11,3 +11,13 @@ In April of this year, over a period of ten days, researchers collected data fro
 Each of the participating observatories collected so much raw data that this could not be transmitted by electronics means, instead all the data was written to more than 1000 hard disks, and subsequently transported by airplane to the analysis center for the project (the MIT Haystack-observatory Westford, Massachusetts and the Max Planck-institute for radio-astronomy in Bonn). In the coming year, super computers will correlate the data, combine it and interpret it using a technique that is called **Very Long Baseline Interferometry**, a technique that is already very common in radio-astronomy but has never been used on such a large scale. It is the intention to form an image of the event horizon, the boundary of a black hole from which nothing (not even light) can escape and infalling gases are heated to tens of millions of degrees.
 
 ![Radio telescopes](/images/radio_telescopes.jpg "Radio telescopes")
+
+___
+
+<dl>
+  <dt>SankSame</dt>
+  <dd>Just look at it in infrared. The cold shadow of the black hole should be visible.</dd>
+
+  <dt>floridahumme</dt>
+  <dd>I just look at our National debt Now that's one massive block hole</dd>
+</dl>
